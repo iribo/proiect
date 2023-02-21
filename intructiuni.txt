@@ -1,0 +1,13 @@
+# Adăugarea unui nou produs în inventar, care include numele produsului, cantitatea disponibilă și prețul per unitate.
+# Creare functie pentru a spune cate produse sunt in inventar
+# Afișarea listei tuturor produselor din inventar, cu detalii despre nume, cantitate și preț.
+# Căutarea unui produs în inventar, după nume, și afișarea informațiilor despre aceasta.
+# Modificarea cantității unui produs în inventar, atunci când un produs este vândut sau când este adăugată o nouă livrare.
+# Eliminarea unui produs din inventar.
+# Adauga o functie care sa calculeze suma tuturor elementelor din lista de dictionare.
+# Adauga o functie care sa returneze dictionarele cu cheltuieli mai mari de o anumita valoare.
+# Adauga o functie care sa returneze dictionarele cu cheltuieli mai mici de o anumita valoare.
+# Adauga o functie care sa returneze dictionarele sortate in functie de data.
+# Implementeaza un sistem de commit-uri si branch-uri folosind Git, astfel incat sa se poata tine evidenta modificarilor aduse codului.
+# Adauga o functie care sa returneze dictionarele cu o anumita cheltuiala.
+# Adauga o functie care sa returneze statistici despre cheltuieli (media, deviatia standard, cheltuielile cele mai mari si cele mai mici).
